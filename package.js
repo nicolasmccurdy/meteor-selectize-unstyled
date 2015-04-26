@@ -1,5 +1,5 @@
 Package.describe({
-    name: "nicolasmccurdy:selectize-bootstrap-unstyled",
+    name: "nicolasmccurdy:selectize-unstyled",
     summary: "Selectize is a hybrid of a textbox and <select> element used for tagging, contact lists, and more.",
     version: '0.0.1',
     git: 'https://github.com/nicolasmccurdy/meteor-selectize-unstyled.git'
