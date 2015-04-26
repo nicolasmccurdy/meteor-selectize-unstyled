@@ -1,8 +1,8 @@
 Package.describe({
-    name: "chhib:selectize-bootstrap-3",
+    name: "nicolasmccurdy:selectize-bootstrap-unstyled",
     summary: "Selectize is a hybrid of a textbox and <select> element used for tagging, contact lists, and more.",
     version: '0.0.1',
-    git: 'https://github.com/chhib/meteor-selectize-bootstrap-3.git'
+    git: 'https://github.com/nicolasmccurdy/meteor-selectize-unstyled.git'
 });
 
 Package.onUse(function(api) {
