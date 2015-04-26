@@ -4,9 +4,9 @@
 
 ## Install
 
-`meteor add chhib:selectize-bootstrap-3`
+`meteor add nicolasmccurdy:meteor-selectize-unstyled`
 
-This Meteor package loads the plugin and adds the Bootstrap 3 stylesheet.  Just add to your app and set it up manually as you would in any other application.
+This Meteor package loads the plugin without any styles. Just add to your app and set it up manually as you would in any other application.
 
 [Homepage](http://brianreavis.github.io/selectize.js/)
 
