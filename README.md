@@ -4,7 +4,7 @@
 
 ## Install
 
-`meteor add nicolasmccurdy:meteor-selectize-unstyled`
+`meteor add nicolasmccurdy:selectize-unstyled`
 
 This Meteor package loads the plugin without any styles. Just add to your app and set it up manually as you would in any other application.
 
